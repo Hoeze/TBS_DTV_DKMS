@@ -9,7 +9,7 @@ INSTALL
 =======
 <pre>
 cd /usr/src
-git clone https://github.com/marcusbirkin/TBS_DTV_DKMS.git
+git clone https://github.com/hoeze/TBS_DTV_DKMS.git
 ln -s TBS_DTV_DKMS TBS_DTV_DKMS-github.com_tbsdtv
 cd TBS_DTV_DKMS
 git submodule update --init --recursive --depth=1
